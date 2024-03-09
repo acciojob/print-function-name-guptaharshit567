@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function(gaandu) {
-	alert("gaandu");
+function functionName(){
+	alert("functionName");
 }
-gaandu();
+functionName();
